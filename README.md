@@ -2,6 +2,7 @@
 
 
 Laptop Prices Analysis - Python Homework
+
 This repository contains my  ML_Zoomcamp homework focused on data analysis and linear regression using Python. The assignment involves setting up the Python environment, working with the Pandas library, and performing various data manipulations on a dataset containing laptop prices.
 
 Key Objectives:
